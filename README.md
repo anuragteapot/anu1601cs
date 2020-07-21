@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, My name is Anurag 👋
 
 <!--
 **Anu1601CS/anu1601cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
