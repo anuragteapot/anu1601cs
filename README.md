@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag</h1>
-<h3 align="center">Software Engineer. Co-Founder & CTO of <a href="https://imorph.io" target="_blank">Imorph</a></h3>
+<h3 align="center">Co-Founder & CTO of <a href="https://imorph.io" target="_blank">Imorph</a></h3>
 <br/>
 <br/>
 
