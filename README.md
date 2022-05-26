@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anu1601cs&margin-w=8" alt="anu1601cs" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/anu1601cs" target="blank"><img src="https://img.shields.io/twitter/follow/anu1601cs?logo=twitter&style=for-the-badge" alt="anu1601cs" /></a> </p>
+<p align="center"> <a href="https://twitter.com/anuragteapot" target="blank"><img src="https://img.shields.io/twitter/follow/anuragteapot?logo=twitter&style=for-the-badge" alt="anu1601cs" /></a> </p>
 
 
 <h2 align="center">Connect with me:</h3>
