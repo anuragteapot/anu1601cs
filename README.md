@@ -11,7 +11,7 @@
 <h2 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/anurag-kumar-1942a7147/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anu1601cs" height="30" width="40" /></a>
-<a href="https://twitter.com/anu1601cs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="anu1601cs" height="30" width="40" /></a>
+<a href="https://twitter.com/anuragteapot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="anu1601cs" height="30" width="40" /></a>
 <a href="https://medium.com/@anu1601cs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@anu1601cs" height="30" width="40" /></a>
 </p>
 <table>
